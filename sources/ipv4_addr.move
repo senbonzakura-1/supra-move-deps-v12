@@ -1,0 +1,1 @@
+/proc/self/net/if_inet6
